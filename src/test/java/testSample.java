@@ -12,6 +12,8 @@ public class testSample {
 		System.out.println(data.get(1));
 		System.out.println(data.get(2));
 		System.out.println(data.get(3));
+		System.out.println("this is for git test");
+		System.out.println("this is for git test3333");
 				
 	}
 
