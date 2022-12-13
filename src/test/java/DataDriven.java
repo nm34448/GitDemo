@@ -78,6 +78,8 @@ public class DataDriven {
 	
 	public static void main(String[] args) throws IOException {
 		
+		System.out.println("this is to check the merge git issue");
+		
 		
 	}
 		// TODO Auto-generated method stub
