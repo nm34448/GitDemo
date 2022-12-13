@@ -15,6 +15,7 @@ public class testSample {
 		System.out.println("this is for git test");
 		System.out.println("this is for git test3333");
 		System.out.println("this is for git merge issue test3333");
+		System.out.println("this is for git merge issue GITX test3333");
 				
 	}
 
