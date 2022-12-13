@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>ExcelDriven2</name>
+=======
+	<name>ExcelDriven1</name>
+>>>>>>> ec625659d6fff9b6a5c5e647be5177a9f21f11ae
 	<comment></comment>
 	<projects>
 	</projects>
