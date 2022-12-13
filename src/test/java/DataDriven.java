@@ -73,13 +73,17 @@ public class DataDriven {
 				
 			} 
 
-
 	
 	
 	public static void main(String[] args) throws IOException {
 		
 		System.out.println("this is to check the merge git issue");
+<<<<<<< HEAD
 		System.out.println("this is to check the merge git issue in GITX");
+=======
+		System.out.println("this is to check the merge git issue1");
+		System.out.println("this is to check the merge git issue2");
+>>>>>>> develop
 		
 		
 	}
