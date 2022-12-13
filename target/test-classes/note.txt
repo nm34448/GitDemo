@@ -1,0 +1,15 @@
+Aplhabets
+a
+b
+c
+
+
+
+Numbers
+8
+9
+10
+23
+59
+57
+89
